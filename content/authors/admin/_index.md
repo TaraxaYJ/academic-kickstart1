@@ -22,20 +22,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analysis
+- Software Development & Complex Modeling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Control Science & Engineering  
+    institution: Shanghai Jiaotong University (SJTU)
+    year: 2018~2021
+  - course: BSc in Artificial Intelligence & Automation
+    institution: Hunan University (HNU)
+    year: 2014~2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "taraxacumyj@gmail.com".
-- icon: twitter
+- icon: qq
   icon_pack: fab
-  link: https://twitter.com/Fxj915105465
+  link: 915105465
 - icon: google-scholar
   icon_pack: ai
   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
